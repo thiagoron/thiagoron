@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning, Software Engine
 - 💼 I’m working as a **Industrial Automation** at **Miba Sinter Brasil**
 - 💬 Ask me about **Current Machine Learning Projects**
 - 📫 How to reach me: **t.ronzella@hotmail.com | www.Linked.com/in/ThiagoRonzella**
-- ⚡ Fun fact: **Learning and doing projects by my oun, and teach some coworkers**
+- ⚡ Fun fact: **Learning and doing projects by my own, and teach some coworkers**
 
 ---
 
