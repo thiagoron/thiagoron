@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning, Software Engine
 - 🌱 I’m currently learning **Machine Learning**
 - 💼 I’m working as a **Industrial Automation** at **Miba Sinter Brasil**
 - 💬 Ask me about **Current Machine Learning Projects**
-- 📫 How to reach me: **t.ronzella@hotmail.com | www.Linked.com/in/ThiagoRonzella**
+- 📫 How to reach me: **t.ronzella@hotmail.com | www.Linked.com/in/thiagoronzella**
 - ⚡ Fun fact: **Learning and doing projects by my own, and teach some coworkers**
 
 ---
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning, Software Engine
 
 Here are some of the technologies I work with:
 
-- **Languages:** JavaScript, Python, TypeScript, C#, C++
+- **Languages:** JavaScript, Python, TypeScript, C#, C++, PHP
 - **Frameworks:**  Pytorch, React, Angular, Django
 - **Tools:**  Git, Docker, Kubernetes
 - **Cloud:**  AWS, Azure, Google Cloud
